@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain-google-genai import ChatGoogleGenerativeAI
 from langchain.schema import HumanMessage, SystemMessage
 import datetime
 
