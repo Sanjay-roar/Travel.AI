@@ -1,8 +1,0 @@
-streamlit
-google-generativeai
-langchain
-langchain-google-genai
-deep-translator
-textwrap3
-python-dotenv
-googletrans
