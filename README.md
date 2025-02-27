@@ -10,8 +10,8 @@ Features
 ✅ Integration with Google Generative AI & LangChain
 ✅ User-friendly interface powered by Streamlit
 
-Tech Stack
-Python 3.10
-Streamlit
-LangChain
+Tech Stack:
+Python 3.10,
+Streamlit,
+LangChain,
 Google Generative AI
