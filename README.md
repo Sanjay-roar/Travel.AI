@@ -1,17 +1,17 @@
-Travel AI - Personalized Travel Assistant 🌍✈️
-🚀 Live Demo: https://travelai-d9tukfba7pdzmbndav3mqc.streamlit.app/
+# AI-Powered-Travel-Planner
 
-Overview
-Travel AI is a smart travel assistant powered by LangChain and Google Generative AI. It helps users plan their trips by providing real-time travel suggestions, itinerary recommendations, and AI-driven insights based on user preferences.
+📌 Project Overview
 
-Features
-✅ AI-powered travel recommendations
-✅ Personalized itinerary planning
-✅ Integration with Google Generative AI & LangChain
-✅ User-friendly interface powered by Streamlit
+An AI-powered travel planning application that helps users find the best travel options between a source and destination. It utilizes LangChain and Google GenAI to process user queries and generate various travel choices with estimated costs.
 
-Tech Stack:
-Python 3.10,
-Streamlit,
-LangChain,
-Google Generative AI
+🛠 Tech Stack
+
+Programming Language: Python
+
+User Interface: Streamlit
+
+Framework: LangChain
+
+AI Model: Google GenAI
+
+Live AI App Link: https://travelai-d9tukfba7pdzmbndav3mqc.streamlit.app/
