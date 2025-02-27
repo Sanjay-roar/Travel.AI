@@ -1,3 +1,4 @@
+!pip install langchain-google-genai
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.schema import HumanMessage, SystemMessage
