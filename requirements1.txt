@@ -1,3 +1,4 @@
+pip install langchain-google-genai
 streamlit
 langchain
 langchain-google-genai
