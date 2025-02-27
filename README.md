@@ -1,4 +1,4 @@
-#Travel AI - Personalized Travel Assistant 🌍✈️
+Travel AI - Personalized Travel Assistant 🌍✈️
 🚀 Live Demo: https://travelai-d9tukfba7pdzmbndav3mqc.streamlit.app/
 
 Overview
