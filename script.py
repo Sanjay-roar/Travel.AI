@@ -4,7 +4,7 @@ from langchain.schema import HumanMessage, SystemMessage
 import datetime
 
 # Get API key from environment variables (recommended)
-GOOGLE_API_KEY = "AIzaSyAc68E5Ja5I3k1xG1Fswp8btBUUoyqUvaI"
+GOOGLE_API_KEY = "Google_Key"
 
 if not GOOGLE_API_KEY:
     st.error("Please set the GOOGLE_API_KEY environment variable.")
